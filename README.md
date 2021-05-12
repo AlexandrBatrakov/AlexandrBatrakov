@@ -33,7 +33,6 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
 
  - ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
- - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
 
 
 ### Профиль на CodeWars
